@@ -1,4 +1,4 @@
 node_modules/
 ios/
 __tests__/
-.DS_Store
+/.DS_Store
